@@ -2,7 +2,10 @@ Practical Application Assignment 5.1: Will the Customer Accept the Coupon?
 
 This report to answer the question, will customer accept the coupon assigment. 
 The link to anlysis: https://github.com/diaa-majed/Assignment_5.1.git
-The link to Jupyter notebook: 
+
+The link to Jupyter notebook: https://github.com/diaa-majed/Assignment_5.1/blob/main/Diaa-prompt.ipynb
+
+Check the image folder for plots 
 
 Date Missing 
 The below is summery of missing data 
@@ -76,4 +79,3 @@ Based on these observations, what do you hypothesize about drivers who accepted 
     - [ ] For Bar coupon, age 21, single, with friends is highest to accept it. 
     - [ ] For Coffee House coupon, age under 21, single with Friends
     - [ ] For Restaurant under $20 coupon, single with friend. Almost all Aage accept the coupon
-
